@@ -1,6 +1,6 @@
 # React Begin
 
-Bu proje, React kütüphanesini kullanarak geliştirdiğiniz bir başlangıç uygulamasını içermektedir. Bu örnek, React'ı tanımak, temel bileşen yapısını öğrenmek ve bir web uygulaması oluşturmak isteyenler için basit bir başlangıç noktası sunmaktadır.
+Bu proje, React kütüphanesini kullanarak geliştirilen bir başlangıç uygulamasını içermektedir. Bu örnek, React'ı tanımak, temel bileşen yapısını öğrenmek ve bir web uygulaması oluşturmak isteyenler için basit bir başlangıç noktası sunmaktadır.
 
 ### Gereksinimler
 
